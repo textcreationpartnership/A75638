@@ -1,0 +1,251 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articles concluded and agreed upon by the Society of the White-writing and Printing Paper Manufactory of Scotland, in a general meeting at Edinburgh the nineteen day of August one thousand six hundred and ninety five years, in the terms whereof partners are to be assumed.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75638</idno>
+            <idno type="STC">Wing A3817B</idno>
+            <idno type="STC">ESTC R172520</idno>
+            <idno type="EEBO-CITATION">45504696</idno>
+            <idno type="OCLC">ocm 45504696</idno>
+            <idno type="VID">171591</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75638)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171591)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2577:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Articles concluded and agreed upon by the Society of the White-writing and Printing Paper Manufactory of Scotland, in a general meeting at Edinburgh the nineteen day of August one thousand six hundred and ninety five years, in the terms whereof partners are to be assumed.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh? :</pubPlace>
+                  <date>1695?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication from Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of the White-writing and Printing Paper Manufactory of Scotland.</term>
+               <term>Paper industry --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="articles">
+            <pb n="1" facs="tcp:171591:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 38 -->
+            <head>ARTICLES Concluded and agreed upon by the Society of the White-Writing and Printing paper Manufactory of <hi>Scotland,</hi> in a ge<g ref="char:EOLhyphen"/>neral Meeting at <hi>Edinburgh</hi> 
+               <date>the Nineteen day of <hi>August</hi> One Thouſand Six Hundred and Ninty Five Years,</date> in the Terms whereof Partners are to be aſſum<g ref="char:EOLhyphen"/>ed.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">P</seg>Rimo,</hi> That the Stock already advanced for carrying on the ſaid White paper Manufa<g ref="char:EOLhyphen"/>ctory, with what is yet to be Subſcribed for, making up in whole <hi>five Thouſand Pound ſtarling;</hi> and that the ſame be divided into Fourteen Hundred Shares: And that in reſpect of the great Charges and other Contingencies, which the Founders and thoſe who have already ſubſcribed have been put to, thoſe who ſhall hereafter ſubſcribe are to make payment of <hi>four pound ſtarling</hi> for each ſhare, and that by and attour <hi>Fighteen ſhilings ſtarling</hi> of Subſcription Money, which by the firſt Articles was provided payable to <hi>Ni<g ref="char:EOLhyphen"/>cholas</hi>
+               <pb facs="tcp:171591:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 39 -->
+               <pb n="1" facs="tcp:171591:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 39 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:171591:3"/>
+               <!-- PDF PAGE 40 -->
+               <hi>Dupin</hi> late Deput Governour of the Paper and Linnen Manufactories of <hi>Scotland, England,</hi> and <hi>Ireland,</hi> and <hi>Denis Ma<g ref="char:EOLhyphen"/>nes</hi> Eſquire, and is now aſſigned by them to the Joynt ſtock, in reſpect of an Liquid Sum obliged to be payed to them, and which they have accepted of in ſatisfaction for their ſaid ſubſcription Money.</p>
+            <p n="2">2<hi>do.</hi> That all thoſe who ſhall hereafter ſubſcribe as Partners ſhall at the time of their reſpective ſubſcriptions, pay in to <hi>Alex<g ref="char:EOLhyphen"/>ander Clark</hi> preſent Theſaurer to the Company, <hi>One pound ſix ſhilling eight pence sterling,</hi> as the juſt equal third part of the fore<g ref="char:EOLhyphen"/>ſaid ſum of <hi>Four pound sterling</hi> for each ſhare, that they ſhall happen to ſubſcribe for, together alſo with the foreſaid ſum of <hi>Eighteen ſhilling sterlings</hi> of Subſcription Money for each ſhare they ſhall happen to ſubſcribe for, or to any other Theſaurer who ſhall hereafter be named by pluralitie of Votes of the Gene<g ref="char:EOLhyphen"/>ral Meeting for receiving thereof, and the remaining two parts of the ſaids ſhares, to be payed to the ſaid <hi>Alexander Clark</hi> or his Succeſſors in Office, how ſoon and whenſoever the ſame ſhall be judged neceſſary by the General Meeting, or a Committee of ſeven perſons to be choſen out of their Number for that effect; and that upon twenty one days Advertiſement, to be given by the Theſaurer for the time being, to the ſubſcribers perſonally, or at their dwelling places, if they be Reſidenters in <hi>Scotland,</hi> and to the Agents Reſidenters in <hi>Edinburgh</hi> for ſuch Engliſhmen, or Re<g ref="char:EOLhyphen"/>ſidenters in <hi>England</hi> as have already ſubſcribed, or ſhall hereaf<g ref="char:EOLhyphen"/>ter ſubſcribe as Partners, and who ſhall be payed by the Engliſh Subſcribers, and upon their paying in of the firſt Moety with the ſubſcription Money as a foreſaid, and ſubſcribing the Articles here ingroſſed, the ſaid <hi>Alexander</hi>'s Receipt thereof to be pro<g ref="char:EOLhyphen"/>duced at an General Meeting at <hi>Edinburgh,</hi> ſhall give the ſubſcri<g ref="char:EOLhyphen"/>bers as full Intereſt in the ſaid Manufactory effeiring to their ſhares, as if they had originally ſubſcribed the ſame.</p>
+            <p n="3">3<hi>tio.</hi> That albeit the firſt Moety and ſubſcription Money a<g ref="char:EOLhyphen"/>foreſaid be payed in by the ſubſcribers, yet if they ſhall hereafter
+<pb n="3" facs="tcp:171591:3"/>
+               <!-- PDF PAGE 40 -->fail to pay in like manner the remaining part of their ſhares, they ſhall be ſubject and lyable to pay <hi>Three ſhilling sterling</hi> Monthly for each third part of the ſhare whereof they ſhall happen to fail in making due payment being required as aforeſaid: And in caſe they fail for the ſpace of three Months thereafter to make payment of the ſaids remaining ſhares and penalty, then &amp; in that caſe their reſpective ſhares is to be diſpoſed of by the foreſaid ſo<g ref="char:EOLhyphen"/>ciety for the uſe of the Stock; and they are in all time thereafter to forfeit and amit any intereſt therein.</p>
+            <p n="4">4<hi>to.</hi> That there ſhall be two Books prepared by <hi>Robert Hen<g ref="char:EOLhyphen"/>derſon</hi> our preſent Clark, or Secretary to the ſociety, and his ſuc<g ref="char:EOLhyphen"/>ceſſors in Office, who are to be choſen at the General Meeting of the Company, in which all the Actings are to be Recorded; one whereof is to be ſtill retained by himſelf while he is in the Of<g ref="char:EOLhyphen"/>fice at <hi>Edinburgh,</hi> and thereafter delivered up with the grounds and warrands thereof to his Succeſſor in Office, and the other thereof to be delivered by him to any perſon whom thoſe who Reſide in <hi>England</hi> do intruſt therewith, to the effect that from time to time the Partners in <hi>England,</hi> may be by him certiorat of the proceedings of the Company: And which Clerk and per<g ref="char:EOLhyphen"/>ſon Intruſted by theſe in <hi>England</hi> are to be obliged not to remove theſe Books out of the Kingdom without warrand from the Com<g ref="char:EOLhyphen"/>pany, under the penalty of <hi>One hundred pounds sterling,</hi> each.</p>
+            <p n="5">5<hi>to.</hi> That no advantage ſhall be taken of ſurvivancy, but that the ſhare or ſhares of the party or parties Deceaſed ſhall fall and belong to their Heirs and Executors, and alſo that he or they ſhall have liberty to ſell and diſpoſe thereupon to any perſon or perſons who will give moſt for the ſame; and their Aſſigneys ſhall bruik and enjoy the ſame priviledges and Emoluments as their Authors might have done, they always producing their aſſigna<g ref="char:EOLhyphen"/>tions &amp; diſpoſitions thereto at the firſt or ſecond General Meeting after the purchaſe, which are to be recorded in the Regiſters or Transſer. Books of the Company.</p>
+            <p n="6">6<hi>to.</hi> That at the firſt General Meeting every year there ſhall be choſen by plurality of Votes Thirteen perſons of their own num<g ref="char:EOLhyphen"/>ber,
+<pb n="4" facs="tcp:171591:4"/>
+               <!-- PDF PAGE 41 -->who ſhall have power to nominate and choiſe and <hi>Preſes</hi> or <hi>Chairman</hi> to the Meeting for the enſuing year out of the ſaid Thir<g ref="char:EOLhyphen"/>teen, whereof always the principal Agent for the Engliſh and Reſi<g ref="char:EOLhyphen"/>denters in <hi>England</hi> is to be one if he be preſent, &amp; which Thirteen whereof ſeven is declared to be ane <hi>Quorum</hi> the <hi>Preſes</hi> always be<g ref="char:EOLhyphen"/>ing one of them by plurality of Votes are to order &amp; determine in all their Meetings anent the Affaires relating to the Company, &amp; to make all Contracts &amp; Bargains relative thereto, &amp; to give all neceſ<g ref="char:EOLhyphen"/>ſary orders to the Theſaurer for deburſements, and which Thir<g ref="char:EOLhyphen"/>teen are to paſs under the name of the <hi>Common Council or Aſſiſt<g ref="char:EOLhyphen"/>ants to the Company:</hi> As alſo the General Meeting is to make choice of Five perſons out of the ſaid Thirteen (the Preſes or Chairman and the Agent for the Reſidenters in <hi>England</hi> being al<g ref="char:EOLhyphen"/>ways two of them) as a Committee of Trade, and whereof any two with the Preſes are to be an <hi>Quorum</hi> (the ſaid Agent being likewayes advertiſed of the Meetting) and which Committee and their <hi>Quorum</hi> ſhall have power, and are Authorized, to keep correſpondence betwixt the Engliſh Partners and them, anent the Patterns and ſale of Paper, and to ſettle and agree upon the man<g ref="char:EOLhyphen"/>ner of remitting the Money ariſing either from the product of the Joynt Stock or Subſcriptions in <hi>England,</hi> to the Theſaurer of the Company that preſently is or that ſhall happen to be at <hi>Edin<g ref="char:EOLhyphen"/>burgh,</hi> for the time and which Committee are alſo to be warrant<g ref="char:EOLhyphen"/>ed and impowered in caſe any of the Subſcribers do not pay in their ſhares as a foreſaid, to ſell the ſame to any other perſon at the ſame price, as they were firſt ſuſcribed for, ſuch Purchaſers and all other ſingular Succeſſors being always ſubject to the whole Laws and Acts of the Company already made or to be made.</p>
+            <p n="7">7<hi>mo.</hi> That the four general meettings of the Company be kept at <hi>Edinburgh,</hi> annually upon the dayes following <hi>viz.</hi> The firſt dyet upon the firſt Munday of <hi>November,</hi> the ſecond upon the firſt Munday of <hi>February,</hi> the Thirdupon the firſt Munday of <hi>May,</hi> and the Fourth upon the Firſt Munday of <hi>Auguſt,</hi> and that in caſe the foreſaid Aſſiſtants find it neceſſary to have general meetings kept more frequently, or upon other dayes, that then the ſame
+<pb n="5" facs="tcp:171591:4"/>
+               <!-- PDF PAGE 41 -->ſhall proceed and be holden Intimation thereof being given to all Parties concerned by affixing placads upon the Mercat Croſs and Exchange of <hi>Edinburgh,</hi> and upon the Entry's to the Exchange at <hi>London,</hi> bearing the day upon which the meeting is to begin, and that Twenty dayes before the ſame, to the effect thoſe Con<g ref="char:EOLhyphen"/>cerned in the Scots white-writting-Paper Company may give timous Inſtructions to their Agent or Agents reſiding at <hi>Edin<g ref="char:EOLhyphen"/>burgh</hi> there anent.</p>
+            <p n="8">8<hi>vo,</hi> That the Theſaurer to the Company at preſent and in time coming ſhall be obliged to make their Accounts once every four Months anent what they have received in, what they have payed out, what debt is due to the company, by whom, &amp; where Lodged, &amp; upon what ſecurity, &amp; what is in their hands of Money and effects. As alſo by advice of the plurality of the Engliſh Sub<g ref="char:EOLhyphen"/>ſcribers ane Caſh-keeper or Theſaurer in <hi>England,</hi> is to be appoin<g ref="char:EOLhyphen"/>ted who may receive in the Effects of the Manufactorie and Pro<g ref="char:EOLhyphen"/>duct thereof, and Money of the Several Subſcribers there and be obliged to hold Count for, and remit the ſame to the Theſaur<g ref="char:EOLhyphen"/>er of the ſaid Office in Scotland once every three Months, and both of them are to give ſufficient Security for that Effect.</p>
+            <p n="9">9<hi>no.</hi> At all general Meetings of the Company each Party if preſent (or his Agent if abſent) ſhall have on Vote for ilk five Shares he ſubſcribes for but in Committies they are only to have one Vote what ever their Intereſt be,</p>
+            <p n="10">10<hi>mo.</hi> The Books for receiving in of Subſcribers are not to be cloſed untill the whole Fourteen Hundred ſhares be filled up without conſent of the plurality of Votes at a general Meet<g ref="char:EOLhyphen"/>ing.</p>
+            <p n="11">11<hi>mo.</hi> That no Subſcriber ſhall have liberty to ſubſcribe for more than Twenty ſhares, without an Act of the general Meetting.</p>
+            <p n="12">12<hi>mo.</hi> That the Milnes ſhall be Built and all Expences defrayed out of the Stock of the Company: As alſo the buying of Rags and all other materials neceſſary and the hyring of work men and mantenance of them and Prentices fit for the work, but it being already determin'd by ſuch of the Company
+<pb n="6" facs="tcp:171591:5"/>
+               <!-- PDF PAGE 42 -->who have already Subſcribed, that there ſhall be two Milnes in<g ref="char:EOLhyphen"/>ſtantly Built, whereof one at <hi>Yeſter</hi> and another near <hi>Edinburgh</hi> whereof the ſaids <hi>Nicholas Dupin,</hi> and <hi>Denis Manes,</hi> are to have the overſight, in reſpect of the ſubſcription Money allowed to them by the former Articles, and liquid ſums now promitted to be payed to them in lieu thereof, the ſaid <hi>Nicholas Dupin</hi> and <hi>Denis Manes,</hi> are to attend the Building of the ſaids Milnes, and to overſee the buying of all materials fit for the ſame on their own proper Charges, the Work Men and Materials being all payed out of the joynt Stock as aforeſaid, and to teach Prentices the Art of making the ſaid Paper, and not to deſert the work untill theſe Prentices be able to manage the ſame, and teach others ſo to doe, conform to an Contract paſt betwix the ſaids <hi>Nicholas Dupin,</hi> and <hi>Denis Manes</hi> on the one part, and an Committie of the ſaid company authorized for that Effect on the other part</p>
+            <p n="13">13<hi>tio.</hi> In caſe any difference ariſe anent the carrying on of the ſaid work and managing of the Stock, the ſame is to be determined by plurality of Votes of all the whole Proprietors or their Agents who are preſent at the firſt generall Meeting there after.</p>
+            <p n="14">14<hi>to.</hi> That it ſhall be in the power of the Proprietors or their Agents, by plurality of Votes to make ſuch Laws for the Government of the ſaid Paper Manufactorie as they ſhall think expedient at any Generall meeting, providing they be not repug<g ref="char:EOLhyphen"/>nant to, or Inconſiſtent with the General Laws of this Kingdom.</p>
+            <p>
+               <hi>Laſtly.</hi> That whoever ſhall ſubſcribe and take Share in the ſaid Manufactorie, or who ſhall Suceed there to buy any title whatſomever ſhall be ſubject and lyable to all the Rules of the Societie made or to be made.</p>
+         </div>
+         <div type="list_of_subscribers">
+            <pb n="7" facs="tcp:171591:5"/>
+            <!-- PDF PAGE 42 -->
+            <head>Here followes a Liſt of the Members who have al<g ref="char:EOLhyphen"/>ready Subſcribed to the above Articles.</head>
+            <list>
+               <item>JOHN Marquis of <hi>Tweeddale</hi> Lord High Commiſſioner of <hi>Scotland</hi>
+               </item>
+               <item>
+                  <hi>George</hi> Lord Viſcount of <hi>Tarbat.</hi>
+               </item>
+               <item>Sir <hi>James Stewart</hi> His Majeſtes <hi>Advocat.</hi>
+               </item>
+               <item>Sir <hi>George Campbel</hi> Knight,</item>
+               <item>
+                  <hi>Alexander Clark</hi> Marchant.</item>
+               <item>
+                  <hi>Andrew Barclay</hi> Writter.</item>
+               <item>
+                  <hi>Andrew Johnſton of</hi> Knock hill,</item>
+               <item>
+                  <hi>Andrew Duffe</hi> Merchant,</item>
+               <item>
+                  <hi>Archibald Scot</hi> Merchant'</item>
+               <item>
+                  <hi>David Robertſon</hi> Writter,</item>
+               <item>
+                  <hi>Denis Manes</hi> Eſquire.</item>
+               <item>
+                  <hi>Francis Borie,</hi>
+               </item>
+               <item>
+                  <hi>George Bell.</hi> Merchant</item>
+               <item>
+                  <hi>George Lawſon</hi> Merchant.</item>
+               <item>
+                  <hi>George Livings;ton</hi> Merchant.</item>
+               <item>
+                  <hi>George Moſman</hi> Book Seller,</item>
+               <item>
+                  <pb n="8" facs="tcp:171591:6"/>
+                  <!-- PDF PAGE 43 -->
+                  <hi>Herman Le Dru,</hi>
+               </item>
+               <item>Mr <hi>James Bailie</hi> Writter to His Majeſties Signet</item>
+               <item>
+                  <hi>James Hamilton</hi> Merchant,</item>
+               <item>
+                  <hi>James Montgomery</hi> Merchant at <hi>Glaſgow,</hi>
+               </item>
+               <item>
+                  <hi>James Stephans</hi>
+               </item>
+               <item>Mr. <hi>James Young</hi> Writter,</item>
+               <item>Mr. <hi>John Buchan</hi> Advocat,</item>
+               <item>Mr. <hi>John Dickſon Secretary to</hi> the Lord Chancellor,</item>
+               <item>Mr. <hi>John, Inglis</hi> Writter to His Majeſties Signet,</item>
+               <item>
+                  <hi>John Learmond</hi> Merchant.</item>
+               <item>
+                  <hi>John Lethem</hi> Smith,</item>
+               <item>Mr. <hi>John Meinȝeis</hi> Advocat,</item>
+               <item>
+                  <hi>John Raitt</hi> Merchant,</item>
+               <item>
+                  <hi>John Trotter</hi> Merchant.</item>
+               <item>
+                  <hi>Laurence Wright</hi> Writter,</item>
+               <item>Mrs. <hi>Mary Flood</hi>
+               </item>
+               <item>
+                  <hi>Nicholas Dupin,</hi> Eſquire,</item>
+               <item>
+                  <hi>Patrick Farmer</hi> Merchant</item>
+               <item>
+                  <hi>Piter La Fite</hi>
+               </item>
+               <item>
+                  <hi>Robert Henderſon,</hi>
+               </item>
+               <item>
+                  <hi>Thomas Butler</hi> Eſquire</item>
+               <item>
+                  <hi>Thomas Noake</hi> Merchant,</item>
+               <item>
+                  <hi>Thomas Shelton</hi> Linnen Draper,</item>
+               <item>
+                  <hi>Thomas Spence</hi> Writter,</item>
+               <item>
+                  <hi>William Hume</hi> Maſter of the Gray Paper Mill at <hi>Ayton'</hi>
+               </item>
+               <item>
+                  <hi>Willam Spence</hi> Warden to His Majeſties Mint,</item>
+            </list>
+            <pb facs="tcp:171591:6"/>
+            <!-- PDF PAGE 43 -->
+         </div>
+      </body>
+   </text>
+</TEI>
